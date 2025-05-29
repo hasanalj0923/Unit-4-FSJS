@@ -1,46 +1,42 @@
-Object Oriented Programming Game
-Getting Started
-Welcome to the Phrase Hunter game!
-Click Start Game to begin guessing the hidden phrase. You can either click the letters on the onscreen keyboard or press the corresponding keys on your physical keyboard. You have five chances to guess wrong before the game ends.
+# Object Oriented Programming Game
 
-How to Play
-Press Start Game to start a new round.
+## Getting Started
 
-Guess the phrase by selecting letters using your mouse or keyboard.
+Welcome to the Phrase Hunter game!  
+Click **Start Game** to begin guessing the hidden phrase. You can either click the letters on the onscreen keyboard or press the corresponding keys on your physical keyboard. You have five chances to guess wrong before the game ends.
 
-Correct guesses reveal the letters in the phrase.
+## How to Play
 
-Wrong guesses remove a heart.
+- Press **Start Game** to start a new round.  
+- Guess the phrase by selecting letters using your mouse or keyboard.  
+- Correct guesses reveal the letters in the phrase.  
+- Wrong guesses remove a heart.  
+- Reveal the entire phrase before running out of hearts to win!
 
-Reveal the entire phrase before running out of hearts to win!
+## Features
 
-Features
-Interactive onscreen keyboard and keyboard event support.
+- Interactive onscreen keyboard and keyboard event support.  
+- Visual life tracking with heart icons.  
+- Keyboard buttons enlarge on hover for better user experience.  
+- Clean, simple user interface.  
+- Game board resets after each round.
 
-Visual life tracking with heart icons.
 
-Keyboard buttons enlarge on hover for better user experience.
+## Deployment
 
-Clean, simple user interface.
+Clone the project — (https://github.com/hasanalj0923/Unit-4-FSJS.git) — then open the `index.html` file in any modern browser to try it out!
 
-Game board resets after each round.
+## Built With
 
-Deployment
-Clone the repo to your local machine and open index.html in any modern browser:
+- JavaScript (ES6)  
+- HTML5  
+- CSS3  
 
-bash
-Copy
-Edit
-git clone https://github.com/hasanalj0923/Unit-4-FSJS.git
-Built With
-JavaScript (ES6)
+## Authors
 
-HTML5
+- **Hasan Al-Jarrah** – JavaScript functionality  
+- **Treehouse** – HTML & CSS starter files – (https://teamtreehouse.com)
 
-CSS3
+## License
 
-Author
-Hasan Al-Jarrah
-
-License
-This project is free for non-commercial use.
+This project is free for educational and non-commercial use.
